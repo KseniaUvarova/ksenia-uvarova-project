@@ -1,5 +1,5 @@
-Number -- Enter
-+/- -- Enter
-Number -- Enter
+Number -- Enter;
++/- -- Enter;
+Number -- Enter;
 
 Results:)
